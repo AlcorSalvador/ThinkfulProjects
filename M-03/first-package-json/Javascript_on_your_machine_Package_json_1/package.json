@@ -1,0 +1,11 @@
+{
+  "name": "package-json-practice",
+  "version": "1.0.0",
+  "description": "A Test, Nothing More, Nothing Less",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Alcor Salvador",
+  "license": "ISC"
+}

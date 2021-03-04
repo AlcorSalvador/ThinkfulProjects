@@ -1,0 +1,31 @@
+.Row {
+    display: flex;
+    flex-direction: row;
+}
+
+.Col {
+    display: flex;
+    flex-direction: column;
+}
+
+.Image {
+    width: 50%;
+    margin: 5px;
+}
+
+.Block {
+    border: black;
+    border-style: solid;
+    margin: 10px;
+    padding: 5px;
+    min-width: 200px;
+}
+
+.Confused {
+    margin-top: -2px;
+    margin-bottom: -2px;
+}
+
+.SpacingFix{
+    margin-top: -16px;
+}
